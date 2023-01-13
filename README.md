@@ -16,7 +16,7 @@ by means of constructing a MPS for its ground state and using DMRG methods
 to determine the critical point and central charge.
 
 ## Tasks
-- Show that a long-range order exists by computing the squared magnetization $\expval{m^{2}}$ as a function of $g$ 
+- Show that a long-range order exists by computing the squared magnetization $\left\langle{m}^{2} \right \rangle $ as a function of $g$ 
 - Determine the critical point $g_c$ by means of using the binder cumulant,
 $$U_L=1-\frac{\left\langle{m}_z^4\right\rangle_L}{3\left\langle{m}_z^2\right\rangle_L^2}$$
 - Determine the value of the binder cumulant critical exponent $\nu$ by performing a scaling collapse of the Binder cumulant. Does this gap close at $g = g_c$?
@@ -29,4 +29,5 @@ algorithm. In Reference Module in Chemistry, Molecular Sciences and Chem-
 ical Engineering. Elsevier, 2018.<a name="ref1"></a>
 
 
-[2].<a name="ref2"></a>
+[2]. F. Verstraete and J. I. Cirac. Matrix product states represent ground states
+faithfully. 73(9):094423.<a name="ref2"></a>
