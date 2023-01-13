@@ -3,11 +3,11 @@
 ### Pugazharasu A D and Rishi Kumar S
 ## Project
 Matrix product states (MPS) are an efficient way to approximate the ground states
-of low-dimensional local gapped Hamiltonians [2]. Moreover, techniques based on
+of low-dimensional local gapped Hamiltonians [[2]](#ref2). Moreover, techniques based on
 such a representation such as the Density Matrix Renormalization Group (DMRG)
 i.e. a variational method for computing the groundstate for a Hamiltonian in
 an MPS representation, have been shown to be the most efficient method for 1-
-dimensional systems [1](#ref1). In this project, by using these techniques we will examine
+dimensional systems [[1]](#ref1). In this project, by using these techniques we will examine
 the properties of the transverse field Ising model,
 
 $$\hat{H}=-\sum_{i=1}^{L-1} \hat{S}_i^z \hat{S}_{i+1}^z-g \sum_{i=1}^L \hat{S}_i^x$$
@@ -29,4 +29,4 @@ algorithm. In Reference Module in Chemistry, Molecular Sciences and Chem-
 ical Engineering. Elsevier, 2018.<a name="ref1"></a>
 
 
-[2].
+[2].<a name="ref2"></a>
