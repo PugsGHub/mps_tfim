@@ -9,7 +9,9 @@ i.e. a variational method for computing the groundstate for a Hamiltonian in
 an MPS representation, have been shown to be the most efficient method for 1-
 dimensional systems [1]. In this project, by using these techniques we will examine
 the properties of the transverse field Ising model,
+
 $$\hat{H}=-\sum_{i=1}^{L-1} \hat{S}_i^z \hat{S}_{i+1}^z-g \sum_{i=1}^L \hat{S}_i^x$$
+
 by means of constructing a MPS for its ground state and using DMRG methods
 to determine the critical point and central charge.
 
